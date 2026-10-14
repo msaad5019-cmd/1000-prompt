@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#080b12">
+  <meta name="description" content="Browse, preview, search and copy AI image-generation prompts in one curated library.">
+  <meta name="referrer" content="no-referrer">
+  <!-- A meta CSP is useful defense-in-depth. Hosting-level security headers are stronger where available. -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self'; connect-src 'self'; font-src 'self'; base-uri 'none'; form-action 'none'; object-src 'none'">
+  <title>PromptVault — AI Image Prompt Library</title>
+  <link rel="stylesheet" href="./style.css">
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <div class="wrap">
+    <header class="top">
+      <a class="brand" href="./" aria-label="PromptVault home">
+        <span class="logo" aria-hidden="true">✳</span>
+        <span class="brand-name">Prompt<span>Vault</span></span>
+      </a>
+      <span class="pill">Curated for creative AI workflows</span>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="eyebrow">The AI image prompt library</div>
+        <h1>Ideas in. <span class="gradient">Amazing visuals out.</span></h1>
+        <p class="intro">Browse ready-to-use image prompts, preview each idea, and copy a prompt in one click.</p>
+        <div class="stats" aria-label="Library statistics">
+          <div class="stat"><strong id="statTotal">—</strong> prompts</div>
+          <div class="stat"><strong id="statPrev">—</strong> with previews</div>
+          <div class="stat"><strong id="statCat">—</strong> categories</div>
+        </div>
+      </section>
+
+      <section class="toolbar" aria-label="Search and filters">
+        <label class="search">
+          <span class="visually-hidden">Search prompts</span>
+          <input id="q" type="search" placeholder="Search prompts, styles, tags…" maxlength="100" autocomplete="off">
+        </label>
+        <label class="field">
+          <span class="visually-hidden">Category</span>
+          <select id="cat"><option value="">All categories</option></select>
+        </label>
+        <label class="field">
+          <span class="visually-hidden">Sort order</span>
+          <select id="sort">
+            <option value="library">Library order</option>
+            <option value="newest">Newest first</option>
+            <option value="title">Title A–Z</option>
+          </select>
+        </label>
+        <label class="check"><input id="onlyPrev" type="checkbox" checked> <span>Only with preview</span></label>
+        <div class="seg" role="group" aria-label="View mode">
+          <button type="button" id="vGrid" class="active" aria-pressed="true">Grid</button>
+          <button type="button" id="vList" aria-pressed="false">List</button>
+        </div>
+      </section>
+
+      <div class="section-head">
+        <h2>Explore prompts</h2>
+        <span class="count" id="count" aria-live="polite">Loading library…</span>
+      </div>
+      <section class="grid" id="grid" aria-label="Image prompts"></section>
+      <button type="button" id="more" class="more" hidden>Load more</button>
+      <noscript><p class="notice">This page needs JavaScript to display the prompt library.</p></noscript>
+    </main>
+
+    <footer class="foot">
+      <span>PromptVault. Preview images are illustrative and may differ from final AI output.</span>
+      <span id="status" role="status" aria-live="polite">Loading…</span>
+    </footer>
+  </div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <dialog id="dlg" aria-labelledby="dTitle">
+    <div class="dlg-head">
+      <h2 id="dTitle">Prompt details</h2>
+      <button type="button" class="ghost" id="dClose" aria-label="Close dialog">Close</button>
+    </div>
+    <div class="dlg-body">
+      <div class="dlg-media"><img id="dImg" alt="" hidden></div>
+      <div class="dlg-info">
+        <div class="meta"><span class="category" id="dCat"></span><span class="pid" id="dId"></span></div>
+        <div class="full-prompt" id="dPrompt"></div>
+        <div class="tags" id="dTags"></div>
+        <div class="dlg-actions">
+          <button type="button" class="ghost" id="dPrev" aria-label="Previous prompt">← Prev</button>
+          <button type="button" class="ghost" id="dNext" aria-label="Next prompt">Next →</button>
+          <button type="button" class="primary" id="dCopy">Copy full prompt</button>
+        </div>
+      </div>
+    </div>
+  </dialog>
+</body>
+</html>
