@@ -9,3 +9,4 @@ test_*
 unsplash_cache_v6.json
 preview_test_results.json
 __pycache__/
+previews/
