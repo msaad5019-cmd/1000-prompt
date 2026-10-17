@@ -14123,7 +14123,8 @@
     "preview_query": "Coffee bean journey sequence coffee cherry roasted bean brewed cup",
     "preview_orientation": "portrait",
     "visual_subject": "Coffee bean journey",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0704.webp"
   },
   {
     "id": 705,
@@ -14142,7 +14143,8 @@
     "preview_query": "Bread process bakery process infographic showing ingredients fermentation shaping baking",
     "preview_orientation": "portrait",
     "visual_subject": "Bread process",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0705.webp"
   },
   {
     "id": 706,
@@ -14161,7 +14163,8 @@
     "preview_query": "Solar system educational solar-system relative order restrained labels",
     "preview_orientation": "portrait",
     "visual_subject": "Solar system",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0706.webp"
   },
   {
     "id": 707,
@@ -14180,7 +14183,8 @@
     "preview_query": "Water cycle visually landscape showing evaporation clouds rain rivers groundwater",
     "preview_orientation": "portrait",
     "visual_subject": "Water cycle",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0707.webp"
   },
   {
     "id": 708,
@@ -14199,7 +14203,8 @@
     "preview_query": "Plant realistic plant clean labels roots stem leaves flowers transport systems",
     "preview_orientation": "portrait",
     "visual_subject": "Plant anatomy",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0708.webp"
   },
   {
     "id": 709,
@@ -14219,7 +14224,8 @@
     "preview_query": "Camera lighting studio portrait diagrammatic light-position overlays labeled sources",
     "preview_orientation": "portrait",
     "visual_subject": "Camera lighting",
-    "visual_style": "cinematic, realistic, commercial, studio, infographic"
+    "visual_style": "cinematic, realistic, commercial, studio, infographic",
+    "preview_image": "previews/0709.webp"
   },
   {
     "id": 710,
@@ -14238,7 +14244,8 @@
     "preview_query": "Architecture workflow building evolving concept sketch plan model visualization",
     "preview_orientation": "portrait",
     "visual_subject": "Architecture workflow",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0710.webp"
   },
   {
     "id": 711,
@@ -14257,7 +14264,8 @@
     "preview_query": "Product lifecycle clean journey raw material product recycling",
     "preview_orientation": "portrait",
     "visual_subject": "Product lifecycle",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0711.webp"
   },
   {
     "id": 712,
@@ -14276,7 +14284,8 @@
     "preview_query": "Urban transit city diagram showing walking cycling buses trains interchange points",
     "preview_orientation": "portrait",
     "visual_subject": "Urban transit",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0712.webp"
   },
   {
     "id": 713,
@@ -14295,7 +14304,8 @@
     "preview_query": "Kitchen workflow professional kitchen diagram showing stations movement paths",
     "preview_orientation": "portrait",
     "visual_subject": "Kitchen workflow",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0713.webp"
   },
   {
     "id": 714,
@@ -14314,7 +14324,8 @@
     "preview_query": "Restaurant plate fine-dining dish restrained annotations identifying major components textures",
     "preview_orientation": "portrait",
     "visual_subject": "Restaurant plate",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0714.webp"
   },
   {
     "id": 715,
@@ -14333,7 +14344,8 @@
     "preview_query": "Car aerodynamics simplified but realistic vehicle airflow lines aerodynamic zones",
     "preview_orientation": "portrait",
     "visual_subject": "Car aerodynamics",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0715.webp"
   },
   {
     "id": 716,
@@ -14352,7 +14364,8 @@
     "preview_query": "Building ventilation building section clean airflow arrows showing fresh exhaust air paths",
     "preview_orientation": "portrait",
     "visual_subject": "Building ventilation",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0716.webp"
   },
   {
     "id": 717,
@@ -14371,7 +14384,8 @@
     "preview_query": "Electric circuit educational circuit board labeled major components",
     "preview_orientation": "portrait",
     "visual_subject": "Electric circuit",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0717.webp"
   },
   {
     "id": 718,
@@ -14390,7 +14404,8 @@
     "preview_query": "Robotics compact service robot labeled sensors joints battery actuators",
     "preview_orientation": "portrait",
     "visual_subject": "Robotics anatomy",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0718.webp"
   },
   {
     "id": 719,
@@ -14409,7 +14424,8 @@
     "preview_query": "Drone quadcopter clean callouts motors propellers camera battery frame",
     "preview_orientation": "portrait",
     "visual_subject": "Drone anatomy",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0719.webp"
   },
   {
     "id": 720,
@@ -14428,7 +14444,8 @@
     "preview_query": "Musical instrument acoustic guitar labeled body bridge strings neck sound hole",
     "preview_orientation": "portrait",
     "visual_subject": "Musical instrument",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0720.webp"
   },
   {
     "id": 721,
@@ -14447,7 +14464,8 @@
     "preview_query": "Piano clean cutaway showing keys hammers strings pedals soundboard",
     "preview_orientation": "portrait",
     "visual_subject": "Piano anatomy",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0721.webp"
   },
   {
     "id": 722,
@@ -14466,7 +14484,8 @@
     "preview_query": "Human eye medical-style educational eye diagram rendered clearly",
     "preview_orientation": "portrait",
     "visual_subject": "Human eye",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0722.webp"
   },
   {
     "id": 723,
@@ -14486,7 +14505,8 @@
     "preview_query": "Human ear clean educational ear illustration labeled sound pathway",
     "preview_orientation": "portrait",
     "visual_subject": "Human ear",
-    "visual_style": "cinematic, realistic, commercial, illustration, infographic"
+    "visual_style": "cinematic, realistic, commercial, illustration, infographic",
+    "preview_image": "previews/0723.webp"
   },
   {
     "id": 724,
@@ -14505,7 +14525,8 @@
     "preview_query": "Leaf botanical leaf cross-section labeled structures",
     "preview_orientation": "portrait",
     "visual_subject": "Leaf anatomy",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0724.webp"
   },
   {
     "id": 725,
@@ -14524,7 +14545,8 @@
     "preview_query": "Mountain formation geological landscape diagram showing layers uplift sequence",
     "preview_orientation": "portrait",
     "visual_subject": "Mountain formation",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0725.webp"
   },
   {
     "id": 726,
@@ -14543,7 +14565,8 @@
     "preview_query": "River system landscape diagram mountain source tributaries delta",
     "preview_orientation": "portrait",
     "visual_subject": "River system",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0726.webp"
   },
   {
     "id": 727,
@@ -14562,7 +14585,8 @@
     "preview_query": "Cloud types clean atmospheric poster showing major cloud forms realistic sky",
     "preview_orientation": "portrait",
     "visual_subject": "Cloud types",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0727.webp"
   },
   {
     "id": 728,
@@ -14581,7 +14605,8 @@
     "preview_query": "Food preservation comparison of common preservation methods realistic food examples",
     "preview_orientation": "portrait",
     "visual_subject": "Food preservation",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0728.webp"
   },
   {
     "id": 729,
@@ -14600,7 +14625,8 @@
     "preview_query": "Recycling system circular flow diagram real-world household",
     "preview_orientation": "portrait",
     "visual_subject": "Recycling system",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0729.webp"
   },
   {
     "id": 730,
@@ -14619,7 +14645,8 @@
     "preview_query": "Smart home modern home cutaway showing connected lighting security climate energy systems",
     "preview_orientation": "portrait",
     "visual_subject": "Smart home",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0730.webp"
   },
   {
     "id": 731,
@@ -14638,7 +14665,8 @@
     "preview_query": "Data center realistic server room clean callouts racks cooling power networking",
     "preview_orientation": "portrait",
     "visual_subject": "Data center",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0731.webp"
   },
   {
     "id": 732,
@@ -14657,7 +14685,8 @@
     "preview_query": "Solar panel rooftop solar system restrained technical labels energy-flow arrows",
     "preview_orientation": "portrait",
     "visual_subject": "Solar panel",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0732.webp"
   },
   {
     "id": 733,
@@ -14676,7 +14705,8 @@
     "preview_query": "Wind turbine clean technical landscape showing turbine components wind direction",
     "preview_orientation": "portrait",
     "visual_subject": "Wind turbine",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0733.webp"
   },
   {
     "id": 734,
@@ -14695,7 +14725,8 @@
     "preview_query": "EV charging electric vehicle charging simple power-flow annotations",
     "preview_orientation": "portrait",
     "visual_subject": "EV charging",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0734.webp"
   },
   {
     "id": 735,
@@ -14714,7 +14745,8 @@
     "preview_query": "Construction sequence building shown four construction stages aligned geometry",
     "preview_orientation": "portrait",
     "visual_subject": "Construction sequence",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0735.webp"
   },
   {
     "id": 736,
@@ -14733,7 +14765,8 @@
     "preview_query": "Furniture assembly clean exploded furniture diagram showing components assembly order",
     "preview_orientation": "portrait",
     "visual_subject": "Furniture assembly",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0736.webp"
   },
   {
     "id": 737,
@@ -14752,7 +14785,8 @@
     "preview_query": "Camera exposure photographic explanation of aperture shutter ISO",
     "preview_orientation": "portrait",
     "visual_subject": "Camera exposure",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0737.webp"
   },
   {
     "id": 738,
@@ -14771,7 +14805,8 @@
     "preview_query": "Lens comparison single city framed through multiple focal lengths differences",
     "preview_orientation": "portrait",
     "visual_subject": "Lens comparison",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0738.webp"
   },
   {
     "id": 739,
@@ -14790,7 +14825,8 @@
     "preview_query": "Color theory sophisticated color wheel complementary analogous relationships",
     "preview_orientation": "portrait",
     "visual_subject": "Color theory",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0739.webp"
   },
   {
     "id": 740,
@@ -14809,7 +14845,8 @@
     "preview_query": "Typography large letterform clean labels identifying typographic structures",
     "preview_orientation": "portrait",
     "visual_subject": "Typography anatomy",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0740.webp"
   },
   {
     "id": 741,
@@ -14828,7 +14865,8 @@
     "preview_query": "Grid system magazine layout shown visible baseline columns margins spacing guides",
     "preview_orientation": "portrait",
     "visual_subject": "Grid system",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0741.webp"
   },
   {
     "id": 742,
@@ -14847,7 +14885,8 @@
     "preview_query": "Map legend clean cartographic demonstrating roads terrain landmarks",
     "preview_orientation": "portrait",
     "visual_subject": "Map legend",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0742.webp"
   },
   {
     "id": 743,
@@ -14866,7 +14905,8 @@
     "preview_query": "Weather system realistic landscape cross-section showing storm system atmospheric layers",
     "preview_orientation": "portrait",
     "visual_subject": "Weather system",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0743.webp"
   },
   {
     "id": 744,
@@ -14885,7 +14925,8 @@
     "preview_query": "Energy home house diagram showing solar generation storage heating cooling consumption",
     "preview_orientation": "portrait",
     "visual_subject": "Energy home",
-    "visual_style": "cinematic, realistic, commercial, infographic, technical"
+    "visual_style": "cinematic, realistic, commercial, infographic, technical",
+    "preview_image": "previews/0744.webp"
   },
   {
     "id": 745,
@@ -14905,7 +14946,8 @@
     "preview_query": "Instagram product scroll-stopping square product object strong contrast",
     "preview_orientation": "portrait",
     "visual_subject": "Instagram product hero",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0745.webp"
   },
   {
     "id": 746,
@@ -14925,7 +14967,8 @@
     "preview_query": "Reels cover bold vertical cover single focal clean negative space short headline",
     "preview_orientation": "portrait",
     "visual_subject": "Reels cover",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0746.webp"
   },
   {
     "id": 747,
@@ -14946,7 +14989,8 @@
     "preview_query": "Food reel cover dramatic close-up of signature dish motion frozen most appetizing moment",
     "preview_orientation": "portrait",
     "visual_subject": "Food reel cover",
-    "visual_style": "cinematic, realistic, commercial, dramatic, social"
+    "visual_style": "cinematic, realistic, commercial, dramatic, social",
+    "preview_image": "previews/0747.webp"
   },
   {
     "id": 748,
@@ -14967,7 +15011,8 @@
     "preview_query": "Fashion reel cover high-energy editorial frame designed remain readable thumbnail size",
     "preview_orientation": "portrait",
     "visual_subject": "Fashion reel cover",
-    "visual_style": "cinematic, realistic, editorial, commercial, social"
+    "visual_style": "cinematic, realistic, editorial, commercial, social",
+    "preview_image": "previews/0748.webp"
   },
   {
     "id": 749,
@@ -14987,7 +15032,8 @@
     "preview_query": "Travel post cinematic destination strong recognizable landscape",
     "preview_orientation": "portrait",
     "visual_subject": "Travel post",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0749.webp"
   },
   {
     "id": 750,
@@ -15007,7 +15053,8 @@
     "preview_query": "Before-after concept split showing room before after tasteful redesign",
     "preview_orientation": "portrait",
     "visual_subject": "Before-after concept",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0750.webp"
   },
   {
     "id": 751,
@@ -15027,7 +15074,8 @@
     "preview_query": "Product carousel first slide product designed as opening slide of carousel",
     "preview_orientation": "portrait",
     "visual_subject": "Product carousel first slide",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0751.webp"
   },
   {
     "id": 752,
@@ -15047,7 +15095,8 @@
     "preview_query": "Quote visually rich but uncluttered deliberate negative space short quote",
     "preview_orientation": "portrait",
     "visual_subject": "Quote background",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0752.webp"
   },
   {
     "id": 753,
@@ -15067,7 +15116,8 @@
     "preview_query": "Small business post warm local-business emphasizing product authentic environment",
     "preview_orientation": "portrait",
     "visual_subject": "Small business post",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0753.webp"
   },
   {
     "id": 754,
@@ -15087,7 +15137,8 @@
     "preview_query": "Restaurant launch launch signature dish atmospheric interior",
     "preview_orientation": "portrait",
     "visual_subject": "Restaurant launch",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0754.webp"
   },
   {
     "id": 755,
@@ -15108,7 +15159,8 @@
     "preview_query": "New product drop dramatic product reveal controlled particles spotlight",
     "preview_orientation": "portrait",
     "visual_subject": "New product drop",
-    "visual_style": "cinematic, realistic, commercial, dramatic, social"
+    "visual_style": "cinematic, realistic, commercial, dramatic, social",
+    "preview_image": "previews/0755.webp"
   },
   {
     "id": 756,
@@ -15128,7 +15180,8 @@
     "preview_query": "Weekend campaign lifestyle suggesting relaxed weekend",
     "preview_orientation": "portrait",
     "visual_subject": "Weekend campaign",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0756.webp"
   },
   {
     "id": 757,
@@ -15148,7 +15201,8 @@
     "preview_query": "Seasonal sale clean commercial strong negative space reserved promotional copy",
     "preview_orientation": "portrait",
     "visual_subject": "Seasonal sale background",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0757.webp"
   },
   {
     "id": 758,
@@ -15168,7 +15222,8 @@
     "preview_query": "Local landmark post visually distinctive landmark human",
     "preview_orientation": "portrait",
     "visual_subject": "Local landmark post",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0758.webp"
   },
   {
     "id": 759,
@@ -15188,7 +15243,8 @@
     "preview_query": "Community story candid neighborhood showing genuine human interaction local character",
     "preview_orientation": "portrait",
     "visual_subject": "Community story",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0759.webp"
   },
   {
     "id": 760,
@@ -15209,7 +15265,8 @@
     "preview_query": "Behind-the-scenes documentary-style creative studio tools sketches active work",
     "preview_orientation": "portrait",
     "visual_subject": "Behind-the-scenes",
-    "visual_style": "cinematic, realistic, commercial, studio, social"
+    "visual_style": "cinematic, realistic, commercial, studio, social",
+    "preview_image": "previews/0760.webp"
   },
   {
     "id": 761,
@@ -15229,7 +15286,8 @@
     "preview_query": "Creator desk polished content-creator workspace camera microphone laptop practical lights",
     "preview_orientation": "portrait",
     "visual_subject": "Creator desk",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0761.webp"
   },
   {
     "id": 762,
@@ -15249,7 +15307,8 @@
     "preview_query": "AI concept conceptual showing human creativity interacting abstract digital forms",
     "preview_orientation": "portrait",
     "visual_subject": "AI concept visual",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0762.webp"
   },
   {
     "id": 763,
@@ -15269,7 +15328,8 @@
     "preview_query": "Small caf post cozy caf signature drink morning light",
     "preview_orientation": "portrait",
     "visual_subject": "Small café post",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0763.webp"
   },
   {
     "id": 764,
@@ -15289,7 +15349,8 @@
     "preview_query": "Bakery post bakery counter fresh pastries warm storefront light",
     "preview_orientation": "portrait",
     "visual_subject": "Bakery post",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0764.webp"
   },
   {
     "id": 765,
@@ -15309,7 +15370,8 @@
     "preview_query": "Supermarket post realistic neighborhood grocery aisle product organization human activity",
     "preview_orientation": "portrait",
     "visual_subject": "Supermarket post",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0765.webp"
   },
   {
     "id": 766,
@@ -15329,7 +15391,8 @@
     "preview_query": "Fitness post dynamic but fitness movement strong",
     "preview_orientation": "portrait",
     "visual_subject": "Fitness post",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0766.webp"
   },
   {
     "id": 767,
@@ -15371,7 +15434,8 @@
     "preview_query": "Jewelry post close luxury jewelry material fidelity elegant negative space",
     "preview_orientation": "portrait",
     "visual_subject": "Jewelry post",
-    "visual_style": "cinematic, realistic, commercial, luxury, social"
+    "visual_style": "cinematic, realistic, commercial, luxury, social",
+    "preview_image": "previews/0768.webp"
   },
   {
     "id": 769,
@@ -15391,7 +15455,8 @@
     "preview_query": "Eyewear post eyewear campaign showing glasses stylish architectural environment",
     "preview_orientation": "portrait",
     "visual_subject": "Eyewear post",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0769.webp"
   },
   {
     "id": 770,
@@ -15411,7 +15476,8 @@
     "preview_query": "Real estate post bright property interior framed mobile viewing strong spatial depth",
     "preview_orientation": "portrait",
     "visual_subject": "Real estate post",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0770.webp"
   },
   {
     "id": 771,
@@ -15431,7 +15497,8 @@
     "preview_query": "Interior post before-and-after-inspired interior transformation",
     "preview_orientation": "portrait",
     "visual_subject": "Interior design post",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0771.webp"
   },
   {
     "id": 772,
@@ -15452,7 +15519,8 @@
     "preview_query": "Event announcement dramatic event atmosphere empty area reserved event details",
     "preview_orientation": "portrait",
     "visual_subject": "Event announcement",
-    "visual_style": "cinematic, realistic, commercial, dramatic, social"
+    "visual_style": "cinematic, realistic, commercial, dramatic, social",
+    "preview_image": "previews/0772.webp"
   },
   {
     "id": 773,
@@ -15472,7 +15540,8 @@
     "preview_query": "Music release album-style built around memorable symbolic object",
     "preview_orientation": "portrait",
     "visual_subject": "Music release",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0773.webp"
   },
   {
     "id": 774,
@@ -15492,7 +15561,8 @@
     "preview_query": "Podcast cover clean portrait-led podcast controlled room title",
     "preview_orientation": "portrait",
     "visual_subject": "Podcast cover",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0774.webp"
   },
   {
     "id": 775,
@@ -15512,7 +15582,8 @@
     "preview_query": "Book launch literary book atmospheric environment",
     "preview_orientation": "portrait",
     "visual_subject": "Book launch",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0775.webp"
   },
   {
     "id": 776,
@@ -15532,7 +15603,8 @@
     "preview_query": "Course launch polished educational workspace laptop notebook notes",
     "preview_orientation": "portrait",
     "visual_subject": "Course launch",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0776.webp"
   },
   {
     "id": 777,
@@ -15552,7 +15624,8 @@
     "preview_query": "App launch smartphone mockup integrated naturally real lifestyle",
     "preview_orientation": "portrait",
     "visual_subject": "App launch",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0777.webp"
   },
   {
     "id": 778,
@@ -15573,7 +15646,8 @@
     "preview_query": "Website launch desktop mobile interface displayed refined creative studio environment",
     "preview_orientation": "portrait",
     "visual_subject": "Website launch",
-    "visual_style": "cinematic, realistic, commercial, studio, social"
+    "visual_style": "cinematic, realistic, commercial, studio, social",
+    "preview_image": "previews/0778.webp"
   },
   {
     "id": 779,
@@ -15593,7 +15667,8 @@
     "preview_query": "Tech tutorial cover high-contrast technology designed read clearly small size",
     "preview_orientation": "portrait",
     "visual_subject": "Tech tutorial cover",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0779.webp"
   },
   {
     "id": 780,
@@ -15613,7 +15688,8 @@
     "preview_query": "Motivational cinematic sunrise landscape person moving toward destination",
     "preview_orientation": "portrait",
     "visual_subject": "Motivational visual",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0780.webp"
   },
   {
     "id": 781,
@@ -15633,7 +15709,8 @@
     "preview_query": "Educational carousel clean first slide built around memorable object empty space",
     "preview_orientation": "portrait",
     "visual_subject": "Educational carousel",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0781.webp"
   },
   {
     "id": 782,
@@ -15653,7 +15730,8 @@
     "preview_query": "Travel tips cover destination luggage map strong",
     "preview_orientation": "portrait",
     "visual_subject": "Travel tips cover",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0782.webp"
   },
   {
     "id": 783,
@@ -15674,7 +15752,8 @@
     "preview_query": "Recipe cover top-down dish ingredients arranged around plate",
     "preview_orientation": "portrait",
     "visual_subject": "Recipe cover",
-    "visual_style": "cinematic, realistic, commercial, top-down, social"
+    "visual_style": "cinematic, realistic, commercial, top-down, social",
+    "preview_image": "previews/0783.webp"
   },
   {
     "id": 784,
@@ -15694,7 +15773,8 @@
     "preview_query": "DIY cover craft workspace tools result clearly visible",
     "preview_orientation": "portrait",
     "visual_subject": "DIY cover",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0784.webp"
   },
   {
     "id": 785,
@@ -15714,7 +15794,8 @@
     "preview_query": "Home organization satisfying before-and-after-inspired organized interior",
     "preview_orientation": "portrait",
     "visual_subject": "Home organization",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0785.webp"
   },
   {
     "id": 786,
@@ -15734,7 +15815,8 @@
     "preview_query": "Pet post pet portrait expressive eyes clean",
     "preview_orientation": "portrait",
     "visual_subject": "Pet post",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0786.webp"
   },
   {
     "id": 787,
@@ -15754,7 +15836,8 @@
     "preview_query": "Plant care post bright indoor plant tools water light",
     "preview_orientation": "portrait",
     "visual_subject": "Plant care post",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0787.webp"
   },
   {
     "id": 788,
@@ -15774,7 +15857,8 @@
     "preview_query": "Small business portrait candid founder portrait inside their real workspace",
     "preview_orientation": "portrait",
     "visual_subject": "Small business portrait",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0788.webp"
   },
   {
     "id": 789,
@@ -15794,7 +15878,8 @@
     "preview_query": "Customer story warm lifestyle showing customer naturally product",
     "preview_orientation": "portrait",
     "visual_subject": "Customer story",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0789.webp"
   },
   {
     "id": 790,
@@ -15814,7 +15899,8 @@
     "preview_query": "Announcement minimal celebratory balloons confetti generous copy space",
     "preview_orientation": "portrait",
     "visual_subject": "Announcement visual",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0790.webp"
   },
   {
     "id": 791,
@@ -15834,7 +15920,8 @@
     "preview_query": "Holiday campaign tasteful seasonal decorations product focus",
     "preview_orientation": "portrait",
     "visual_subject": "Holiday campaign",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0791.webp"
   },
   {
     "id": 792,
@@ -15854,7 +15941,8 @@
     "preview_query": "Local food story documentary-style local food preparation human hands ingredients",
     "preview_orientation": "portrait",
     "visual_subject": "Local food story",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0792.webp"
   },
   {
     "id": 793,
@@ -15874,7 +15962,8 @@
     "preview_query": "Brand mood lifestyle built around defined material light emotional mood",
     "preview_orientation": "portrait",
     "visual_subject": "Brand mood image",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0793.webp"
   },
   {
     "id": 794,
@@ -15894,7 +15983,8 @@
     "preview_query": "Thumbnail portrait highly readable close portrait expressive pose uncluttered",
     "preview_orientation": "portrait",
     "visual_subject": "Thumbnail portrait",
-    "visual_style": "cinematic, realistic, commercial, social, media"
+    "visual_style": "cinematic, realistic, commercial, social, media",
+    "preview_image": "previews/0794.webp"
   },
   {
     "id": 795,
@@ -15914,7 +16004,8 @@
     "preview_query": "Professional headshot transform reference portrait polished professional headshot while preserving identity facial structure skin tone hairstyle",
     "preview_orientation": "portrait",
     "visual_subject": "Professional headshot",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0795.webp"
   },
   {
     "id": 796,
@@ -15934,7 +16025,8 @@
     "preview_query": "Golden-hour portrait place reference person warm late-afternoon light while keeping same recognizable face proportions",
     "preview_orientation": "portrait",
     "visual_subject": "Golden-hour portrait",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0796.webp"
   },
   {
     "id": 797,
@@ -15955,7 +16047,8 @@
     "preview_query": "Studio portrait rethe reference as clean studio portrait identity fully preserved",
     "preview_orientation": "portrait",
     "visual_subject": "Studio portrait",
-    "visual_style": "cinematic, realistic, commercial, studio, identity"
+    "visual_style": "cinematic, realistic, commercial, studio, identity",
+    "preview_image": "previews/0797.webp"
   },
   {
     "id": 798,
@@ -15975,7 +16068,8 @@
     "preview_query": "Rainy street place reference person naturally rainy city street",
     "preview_orientation": "portrait",
     "visual_subject": "Rainy street",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0798.webp"
   },
   {
     "id": 799,
