@@ -15413,7 +15413,8 @@
     "preview_query": "Beauty post beauty portrait product integration soft studio light",
     "preview_orientation": "portrait",
     "visual_subject": "Beauty post",
-    "visual_style": "cinematic, realistic, commercial, studio, social"
+    "visual_style": "cinematic, realistic, commercial, studio, social",
+    "preview_image": "previews/0767.webp"
   },
   {
     "id": 768,
@@ -16089,7 +16090,8 @@
     "preview_query": "Mountain traveler place reference mountain overlook realistic clothing environment integration",
     "preview_orientation": "portrait",
     "visual_subject": "Mountain traveler",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0799.webp"
   },
   {
     "id": 800,
@@ -16109,7 +16111,8 @@
     "preview_query": "Formal portrait dress reference elegant formalwear while preserving their exact identity",
     "preview_orientation": "portrait",
     "visual_subject": "Formal portrait",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0800.webp"
   },
   {
     "id": 801,
@@ -16129,7 +16132,8 @@
     "preview_query": "Casual lifestyle place reference relaxed caf lifestyle posture lighting",
     "preview_orientation": "portrait",
     "visual_subject": "Casual lifestyle",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0801.webp"
   },
   {
     "id": 802,
@@ -16150,7 +16154,8 @@
     "preview_query": "Editorial fashion turn reference editorial portrait while keeping facial identity unchanged",
     "preview_orientation": "portrait",
     "visual_subject": "Editorial fashion",
-    "visual_style": "cinematic, realistic, editorial, commercial, identity"
+    "visual_style": "cinematic, realistic, editorial, commercial, identity",
+    "preview_image": "previews/0802.webp"
   },
   {
     "id": 803,
@@ -16170,7 +16175,8 @@
     "preview_query": "Film still place reference cinematic realistic lighting consistent identity",
     "preview_orientation": "portrait",
     "visual_subject": "Film still",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0803.webp"
   },
   {
     "id": 804,
@@ -16190,7 +16196,8 @@
     "preview_query": "Historical clothing dress reference historically inspired clothing while preserving their real face age",
     "preview_orientation": "portrait",
     "visual_subject": "Historical clothing",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0804.webp"
   },
   {
     "id": 805,
@@ -16211,7 +16218,8 @@
     "preview_query": "Vintage give reference portrait authentic vintage photographic treatment",
     "preview_orientation": "portrait",
     "visual_subject": "Vintage photograph",
-    "visual_style": "cinematic, realistic, commercial, vintage, identity"
+    "visual_style": "cinematic, realistic, commercial, vintage, identity",
+    "preview_image": "previews/0805.webp"
   },
   {
     "id": 806,
@@ -16232,7 +16240,8 @@
     "preview_query": "Black-and-white convert reference portrait sophisticated monochrome studio while preserving facial details",
     "preview_orientation": "portrait",
     "visual_subject": "Black-and-white",
-    "visual_style": "cinematic, realistic, commercial, studio, identity"
+    "visual_style": "cinematic, realistic, commercial, studio, identity",
+    "preview_image": "previews/0806.webp"
   },
   {
     "id": 807,
@@ -16253,7 +16262,8 @@
     "preview_query": "Neon night place reference neon-lit night environment while maintaining identity realistic skin",
     "preview_orientation": "portrait",
     "visual_subject": "Neon night",
-    "visual_style": "cinematic, realistic, commercial, neon, identity"
+    "visual_style": "cinematic, realistic, commercial, neon, identity",
+    "preview_image": "previews/0807.webp"
   },
   {
     "id": 808,
@@ -16273,7 +16283,8 @@
     "preview_query": "Winter place reference snowy landscape winter clothing unchanged facial identity",
     "preview_orientation": "portrait",
     "visual_subject": "Winter scene",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0808.webp"
   },
   {
     "id": 809,
@@ -16293,7 +16304,8 @@
     "preview_query": "Beach portrait place reference quiet beach sunrise realistic environmental light",
     "preview_orientation": "portrait",
     "visual_subject": "Beach portrait",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0809.webp"
   },
   {
     "id": 810,
@@ -16313,7 +16325,8 @@
     "preview_query": "Luxury hotel place reference person refined hotel interior realistic wardrobe unchanged identity",
     "preview_orientation": "portrait",
     "visual_subject": "Luxury hotel",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0810.webp"
   },
   {
     "id": 811,
@@ -16333,7 +16346,8 @@
     "preview_query": "Airport arrival place reference arrivals hall candid",
     "preview_orientation": "portrait",
     "visual_subject": "Airport arrival",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0811.webp"
   },
   {
     "id": 812,
@@ -16353,7 +16367,8 @@
     "preview_query": "Train journey place reference beside train window cinematic travel lighting",
     "preview_orientation": "portrait",
     "visual_subject": "Train journey",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0812.webp"
   },
   {
     "id": 813,
@@ -16373,7 +16388,8 @@
     "preview_query": "Bookstore place reference person independent bookstore interaction environment",
     "preview_orientation": "portrait",
     "visual_subject": "Bookstore scene",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0813.webp"
   },
   {
     "id": 814,
@@ -16393,7 +16409,8 @@
     "preview_query": "Workshop place reference craft workshop tools clothing",
     "preview_orientation": "portrait",
     "visual_subject": "Workshop scene",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0814.webp"
   },
   {
     "id": 815,
@@ -16413,7 +16430,8 @@
     "preview_query": "Sports portrait place reference person realistic sports environment while preserving identity",
     "preview_orientation": "portrait",
     "visual_subject": "Sports portrait",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0815.webp"
   },
   {
     "id": 816,
@@ -16433,7 +16451,8 @@
     "preview_query": "Chef portrait place reference professional kitchen as chef maintaining recognizable facial features",
     "preview_orientation": "portrait",
     "visual_subject": "Chef portrait",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0816.webp"
   },
   {
     "id": 817,
@@ -16454,7 +16473,8 @@
     "preview_query": "Artist portrait place reference person inside working art studio surrounded by",
     "preview_orientation": "portrait",
     "visual_subject": "Artist portrait",
-    "visual_style": "cinematic, realistic, commercial, studio, identity"
+    "visual_style": "cinematic, realistic, commercial, studio, identity",
+    "preview_image": "previews/0817.webp"
   },
   {
     "id": 818,
@@ -16474,7 +16494,8 @@
     "preview_query": "Musician portrait place reference small stage during soundcheck realistic venue lighting",
     "preview_orientation": "portrait",
     "visual_subject": "Musician portrait",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0818.webp"
   },
   {
     "id": 819,
@@ -16494,7 +16515,8 @@
     "preview_query": "Traveler postcard polished travel portrait reference while preserving their exact appearance",
     "preview_orientation": "portrait",
     "visual_subject": "Traveler postcard",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0819.webp"
   },
   {
     "id": 820,
@@ -16514,7 +16536,8 @@
     "preview_query": "Family portrait warm family-style portrait around reference person while preserving every referenced face",
     "preview_orientation": "portrait",
     "visual_subject": "Family portrait",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0820.webp"
   },
   {
     "id": 821,
@@ -16534,7 +16557,8 @@
     "preview_query": "Mirror concept conceptual mirror portrait reference appearing consistently both reflections",
     "preview_orientation": "portrait",
     "visual_subject": "Mirror concept",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0821.webp"
   },
   {
     "id": 822,
@@ -16554,7 +16578,8 @@
     "preview_query": "Double exposure artistic double exposure reference person's silhouette meaningful landscape",
     "preview_orientation": "portrait",
     "visual_subject": "Double exposure",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0822.webp"
   },
   {
     "id": 823,
@@ -16574,7 +16599,8 @@
     "preview_query": "Silhouette clean silhouette portrait based reference while preserving recognizable outline",
     "preview_orientation": "portrait",
     "visual_subject": "Silhouette",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0823.webp"
   },
   {
     "id": 824,
@@ -16595,7 +16621,8 @@
     "preview_query": "Magazine cover editorial cover reference space masthead",
     "preview_orientation": "portrait",
     "visual_subject": "Magazine cover",
-    "visual_style": "cinematic, realistic, editorial, commercial, identity"
+    "visual_style": "cinematic, realistic, editorial, commercial, identity",
+    "preview_image": "previews/0824.webp"
   },
   {
     "id": 825,
@@ -16616,7 +16643,8 @@
     "preview_query": "Streetwear portrait place reference contemporary streetwear editorial while preserving identity",
     "preview_orientation": "portrait",
     "visual_subject": "Streetwear portrait",
-    "visual_style": "cinematic, realistic, editorial, commercial, identity"
+    "visual_style": "cinematic, realistic, editorial, commercial, identity",
+    "preview_image": "previews/0825.webp"
   },
   {
     "id": 826,
@@ -16636,7 +16664,8 @@
     "preview_query": "Business portrait modern workplace portrait office lighting exact facial identity",
     "preview_orientation": "portrait",
     "visual_subject": "Business portrait",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0826.webp"
   },
   {
     "id": 827,
@@ -16657,7 +16686,8 @@
     "preview_query": "Creative studio place reference person designer studio mood lighting realistic depth",
     "preview_orientation": "portrait",
     "visual_subject": "Creative studio",
-    "visual_style": "cinematic, realistic, commercial, studio, identity"
+    "visual_style": "cinematic, realistic, commercial, studio, identity",
+    "preview_image": "previews/0827.webp"
   },
   {
     "id": 828,
@@ -16677,7 +16707,8 @@
     "preview_query": "Rooftop portrait place reference rooftop blue hour city skyline",
     "preview_orientation": "portrait",
     "visual_subject": "Rooftop portrait",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0828.webp"
   },
   {
     "id": 829,
@@ -16697,7 +16728,8 @@
     "preview_query": "Coastal portrait place reference beside rugged coastlines wind clothing movement",
     "preview_orientation": "portrait",
     "visual_subject": "Coastal portrait",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0829.webp"
   },
   {
     "id": 830,
@@ -16717,7 +16749,8 @@
     "preview_query": "Forest portrait place reference quiet forest filtered sunlight",
     "preview_orientation": "portrait",
     "visual_subject": "Forest portrait",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0830.webp"
   },
   {
     "id": 831,
@@ -16737,7 +16770,8 @@
     "preview_query": "Desert portrait place reference vast desert landscape atmospheric perspective",
     "preview_orientation": "portrait",
     "visual_subject": "Desert portrait",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0831.webp"
   },
   {
     "id": 832,
@@ -16757,7 +16791,8 @@
     "preview_query": "Raincoat portrait dress reference modern rainwear place them wet street",
     "preview_orientation": "portrait",
     "visual_subject": "Raincoat portrait",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0832.webp"
   },
   {
     "id": 833,
@@ -16777,7 +16812,8 @@
     "preview_query": "Vintage car place reference beside classic car while preserving identity realistic",
     "preview_orientation": "portrait",
     "visual_subject": "Vintage car scene",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0833.webp"
   },
   {
     "id": 834,
@@ -16797,7 +16833,8 @@
     "preview_query": "Museum portrait place reference person inside contemporary museum clean architectural framing",
     "preview_orientation": "portrait",
     "visual_subject": "Museum portrait",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0834.webp"
   },
   {
     "id": 835,
@@ -16817,7 +16854,8 @@
     "preview_query": "Cinema portrait place reference empty cinema screen glow behind",
     "preview_orientation": "portrait",
     "visual_subject": "Cinema portrait",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0835.webp"
   },
   {
     "id": 836,
@@ -16837,7 +16875,8 @@
     "preview_query": "Library portrait place reference person grand library warm practical lights",
     "preview_orientation": "portrait",
     "visual_subject": "Library portrait",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0836.webp"
   },
   {
     "id": 837,
@@ -16857,7 +16896,8 @@
     "preview_query": "Garden portrait place reference botanical garden foliage",
     "preview_orientation": "portrait",
     "visual_subject": "Garden portrait",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0837.webp"
   },
   {
     "id": 838,
@@ -16877,7 +16917,8 @@
     "preview_query": "Festival portrait place reference person inside lively lantern festival authentic lighting",
     "preview_orientation": "portrait",
     "visual_subject": "Festival portrait",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0838.webp"
   },
   {
     "id": 839,
@@ -16897,7 +16938,8 @@
     "preview_query": "Winter fashion winter-fashion portrait reference",
     "preview_orientation": "portrait",
     "visual_subject": "Winter fashion",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0839.webp"
   },
   {
     "id": 840,
@@ -16918,7 +16960,8 @@
     "preview_query": "Minimal profile minimalist profile portrait strong negative space exact reference identity",
     "preview_orientation": "portrait",
     "visual_subject": "Minimal profile",
-    "visual_style": "cinematic, realistic, commercial, minimalist, identity"
+    "visual_style": "cinematic, realistic, commercial, minimalist, identity",
+    "preview_image": "previews/0840.webp"
   },
   {
     "id": 841,
@@ -16938,7 +16981,8 @@
     "preview_query": "Backlit portrait place reference against bright doorway subtle rim lighting",
     "preview_orientation": "portrait",
     "visual_subject": "Backlit portrait",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0841.webp"
   },
   {
     "id": 842,
@@ -16958,7 +17002,8 @@
     "preview_query": "Projector portrait reference as identity anchor portrait abstract projection patterns",
     "preview_orientation": "portrait",
     "visual_subject": "Projector portrait",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0842.webp"
   },
   {
     "id": 843,
@@ -16978,7 +17023,8 @@
     "preview_query": "candid candid documentary-style of reference everyday environment while preserving their real appearance",
     "preview_orientation": "portrait",
     "visual_subject": "Natural candid",
-    "visual_style": "cinematic, realistic, commercial, identity, photo"
+    "visual_style": "cinematic, realistic, commercial, identity, photo",
+    "preview_image": "previews/0843.webp"
   },
   {
     "id": 844,
@@ -16996,7 +17042,8 @@
     "preview_query": "Luxury watch campaign complete campaign mechanical watch dark stone precision reflections elegant negative space",
     "preview_orientation": "portrait",
     "visual_subject": "Luxury watch campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0844.webp"
   },
   {
     "id": 845,
@@ -17014,7 +17061,8 @@
     "preview_query": "Skincare campaign clean skincare campaign glass bottles water stone soft botanical elements",
     "preview_orientation": "portrait",
     "visual_subject": "Skincare campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0845.webp"
   },
   {
     "id": 846,
@@ -17032,7 +17080,8 @@
     "preview_query": "Coffee campaign coffee campaign showing roasted beans cup steam warm morning light",
     "preview_orientation": "portrait",
     "visual_subject": "Coffee campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0846.webp"
   },
   {
     "id": 847,
@@ -17050,7 +17099,8 @@
     "preview_query": "Sportswear campaign energetic sportswear campaign athlete modern training environment",
     "preview_orientation": "portrait",
     "visual_subject": "Sportswear campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0847.webp"
   },
   {
     "id": 848,
@@ -17068,7 +17118,8 @@
     "preview_query": "Eyewear campaign sophisticated eyewear campaign architectural lines controlled reflections pair",
     "preview_orientation": "portrait",
     "visual_subject": "Eyewear campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0848.webp"
   },
   {
     "id": 849,
@@ -17086,7 +17137,8 @@
     "preview_query": "Automotive campaign cinematic automotive campaign single vehicle carefully designed environment",
     "preview_orientation": "portrait",
     "visual_subject": "Automotive campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0849.webp"
   },
   {
     "id": 850,
@@ -17104,7 +17156,8 @@
     "preview_query": "Travel campaign travel campaign combining destination landscape strong human",
     "preview_orientation": "portrait",
     "visual_subject": "Travel campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0850.webp"
   },
   {
     "id": 851,
@@ -17123,7 +17176,8 @@
     "preview_query": "Hotel campaign luxury hotel campaign showing inviting suite layered light",
     "preview_orientation": "portrait",
     "visual_subject": "Hotel campaign",
-    "visual_style": "cinematic, realistic, commercial, luxury, campaigns"
+    "visual_style": "cinematic, realistic, commercial, luxury, campaigns",
+    "preview_image": "previews/0851.webp"
   },
   {
     "id": 852,
@@ -17141,7 +17195,8 @@
     "preview_query": "Restaurant campaign restaurant campaign signature dish atmospheric dining environment",
     "preview_orientation": "portrait",
     "visual_subject": "Restaurant campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0852.webp"
   },
   {
     "id": 853,
@@ -17159,7 +17214,8 @@
     "preview_query": "Bakery campaign warm bakery campaign fresh pastries craft details morning storefront light",
     "preview_orientation": "portrait",
     "visual_subject": "Bakery campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0853.webp"
   },
   {
     "id": 854,
@@ -17177,7 +17233,8 @@
     "preview_query": "Jewelry campaign high-end jewelry campaign close material detail controlled sparkle dark elegant surfaces",
     "preview_orientation": "portrait",
     "visual_subject": "Jewelry campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0854.webp"
   },
   {
     "id": 855,
@@ -17195,7 +17252,8 @@
     "preview_query": "Perfume campaign cinematic fragrance campaign glass liquid fabric sculptural light",
     "preview_orientation": "portrait",
     "visual_subject": "Perfume campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0855.webp"
   },
   {
     "id": 856,
@@ -17213,7 +17271,8 @@
     "preview_query": "Fitness supplement sports-nutrition campaign container restrained ingredient elements",
     "preview_orientation": "portrait",
     "visual_subject": "Fitness supplement",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0856.webp"
   },
   {
     "id": 857,
@@ -17231,7 +17290,8 @@
     "preview_query": "Technology campaign polished technology campaign device integrated modern environment",
     "preview_orientation": "portrait",
     "visual_subject": "Technology campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0857.webp"
   },
   {
     "id": 858,
@@ -17249,7 +17309,8 @@
     "preview_query": "Laptop campaign laptop campaign designer desk light precise reflections",
     "preview_orientation": "portrait",
     "visual_subject": "Laptop campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0858.webp"
   },
   {
     "id": 859,
@@ -17268,7 +17329,8 @@
     "preview_query": "Headphone campaign lifestyle headphone campaign creator quiet modern studio",
     "preview_orientation": "portrait",
     "visual_subject": "Headphone campaign",
-    "visual_style": "cinematic, realistic, commercial, studio, campaigns"
+    "visual_style": "cinematic, realistic, commercial, studio, campaigns",
+    "preview_image": "previews/0859.webp"
   },
   {
     "id": 860,
@@ -17287,7 +17349,8 @@
     "preview_query": "Furniture campaign luxury furniture campaign inside beautifully designed interior product focus",
     "preview_orientation": "portrait",
     "visual_subject": "Furniture campaign",
-    "visual_style": "cinematic, realistic, commercial, luxury, campaigns"
+    "visual_style": "cinematic, realistic, commercial, luxury, campaigns",
+    "preview_image": "previews/0860.webp"
   },
   {
     "id": 861,
@@ -17305,7 +17368,8 @@
     "preview_query": "Home fragrance campaign calm campaign candle diffuser smoke wood botanicals",
     "preview_orientation": "portrait",
     "visual_subject": "Home fragrance campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0861.webp"
   },
   {
     "id": 862,
@@ -17324,7 +17388,8 @@
     "preview_query": "Outdoor gear adventure gear campaign realistic mountain trail dramatic atmospheric depth",
     "preview_orientation": "portrait",
     "visual_subject": "Outdoor gear",
-    "visual_style": "cinematic, realistic, commercial, dramatic, campaigns"
+    "visual_style": "cinematic, realistic, commercial, dramatic, campaigns",
+    "preview_image": "previews/0862.webp"
   },
   {
     "id": 863,
@@ -17342,7 +17407,8 @@
     "preview_query": "Camping campaign camping campaign blue hour tent lantern landscape",
     "preview_orientation": "portrait",
     "visual_subject": "Camping campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0863.webp"
   },
   {
     "id": 864,
@@ -17360,7 +17426,8 @@
     "preview_query": "Bicycle campaign cycling campaign scenic road rider bike motion",
     "preview_orientation": "portrait",
     "visual_subject": "Bicycle campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0864.webp"
   },
   {
     "id": 865,
@@ -17378,7 +17445,8 @@
     "preview_query": "Running campaign performance running campaign dawn strong directional light realistic movement",
     "preview_orientation": "portrait",
     "visual_subject": "Running campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0865.webp"
   },
   {
     "id": 866,
@@ -17397,7 +17465,8 @@
     "preview_query": "Beauty campaign sophisticated beauty campaign combining portrait product soft studio lighting",
     "preview_orientation": "portrait",
     "visual_subject": "Beauty campaign",
-    "visual_style": "cinematic, realistic, commercial, studio, campaigns"
+    "visual_style": "cinematic, realistic, commercial, studio, campaigns",
+    "preview_image": "previews/0866.webp"
   },
   {
     "id": 867,
@@ -17415,7 +17484,8 @@
     "preview_query": "Haircare campaign haircare realistic hair texture product bottle clean environment",
     "preview_orientation": "portrait",
     "visual_subject": "Haircare campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0867.webp"
   },
   {
     "id": 868,
@@ -17433,7 +17503,8 @@
     "preview_query": "Makeup campaign beauty campaign close portrait detail coordinated cosmetic products",
     "preview_orientation": "portrait",
     "visual_subject": "Makeup campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0868.webp"
   },
   {
     "id": 869,
@@ -17452,7 +17523,8 @@
     "preview_query": "Fashion campaign complete editorial campaign model garment architectural setting negative space",
     "preview_orientation": "portrait",
     "visual_subject": "Fashion campaign",
-    "visual_style": "cinematic, realistic, editorial, commercial, campaigns"
+    "visual_style": "cinematic, realistic, editorial, commercial, campaigns",
+    "preview_image": "previews/0869.webp"
   },
   {
     "id": 870,
@@ -17470,7 +17542,8 @@
     "preview_query": "Streetwear campaign youthful streetwear campaign textured urban environment strong",
     "preview_orientation": "portrait",
     "visual_subject": "Streetwear campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0870.webp"
   },
   {
     "id": 871,
@@ -17488,7 +17561,8 @@
     "preview_query": "Children's product playful but children's product campaign props safe environment",
     "preview_orientation": "portrait",
     "visual_subject": "Children's product",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0871.webp"
   },
   {
     "id": 872,
@@ -17506,7 +17580,8 @@
     "preview_query": "Pet product pet-product campaign expressive animal realistic home setting",
     "preview_orientation": "portrait",
     "visual_subject": "Pet product",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0872.webp"
   },
   {
     "id": 873,
@@ -17524,7 +17599,8 @@
     "preview_query": "Kitchen appliance modern appliance campaign bright designer kitchen functional context",
     "preview_orientation": "portrait",
     "visual_subject": "Kitchen appliance",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0873.webp"
   },
   {
     "id": 874,
@@ -17542,7 +17618,8 @@
     "preview_query": "Cleaning product fresh household-cleaning campaign showing spotless realistic home environment",
     "preview_orientation": "portrait",
     "visual_subject": "Cleaning product",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0874.webp"
   },
   {
     "id": 875,
@@ -17560,7 +17637,8 @@
     "preview_query": "Food packaging packaged-food campaign ingredients arranged naturally around package",
     "preview_orientation": "portrait",
     "visual_subject": "Food packaging",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0875.webp"
   },
   {
     "id": 876,
@@ -17579,7 +17657,8 @@
     "preview_query": "Chocolate campaign indulgent chocolate campaign cocoa broken pieces controlled studio light",
     "preview_orientation": "portrait",
     "visual_subject": "Chocolate campaign",
-    "visual_style": "cinematic, realistic, commercial, studio, campaigns"
+    "visual_style": "cinematic, realistic, commercial, studio, campaigns",
+    "preview_image": "previews/0876.webp"
   },
   {
     "id": 877,
@@ -17597,7 +17676,8 @@
     "preview_query": "Beverage campaign chilled beverage campaign condensation glass ice frozen motion",
     "preview_orientation": "portrait",
     "visual_subject": "Beverage campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0877.webp"
   },
   {
     "id": 878,
@@ -17615,7 +17695,8 @@
     "preview_query": "Water campaign clean hydration campaign crystal-clear water minimal environmental",
     "preview_orientation": "portrait",
     "visual_subject": "Water campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0878.webp"
   },
   {
     "id": 879,
@@ -17633,7 +17714,8 @@
     "preview_query": "Eco product campaign sustainability-focused campaign restrained",
     "preview_orientation": "portrait",
     "visual_subject": "Eco product campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0879.webp"
   },
   {
     "id": 880,
@@ -17651,7 +17733,8 @@
     "preview_query": "Stationery campaign stationery campaign notebooks pens paper texture organized desk styling",
     "preview_orientation": "portrait",
     "visual_subject": "Stationery campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0880.webp"
   },
   {
     "id": 881,
@@ -17670,7 +17753,8 @@
     "preview_query": "Travel luggage campaign luxury luggage campaign inside elegant station or hotel environment",
     "preview_orientation": "portrait",
     "visual_subject": "Travel luggage campaign",
-    "visual_style": "cinematic, realistic, commercial, luxury, campaigns"
+    "visual_style": "cinematic, realistic, commercial, luxury, campaigns",
+    "preview_image": "previews/0881.webp"
   },
   {
     "id": 882,
@@ -17688,7 +17772,8 @@
     "preview_query": "Home office campaign productivity-focused campaign showing ergonomic workspace daylight",
     "preview_orientation": "portrait",
     "visual_subject": "Home office campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0882.webp"
   },
   {
     "id": 883,
@@ -17706,7 +17791,8 @@
     "preview_query": "Gaming campaign gaming setup campaign controlled ambient lighting realistic hardware",
     "preview_orientation": "portrait",
     "visual_subject": "Gaming campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0883.webp"
   },
   {
     "id": 884,
@@ -17724,7 +17810,8 @@
     "preview_query": "Camera campaign professional camera campaign lens detail photographer environment precise light",
     "preview_orientation": "portrait",
     "visual_subject": "Camera campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0884.webp"
   },
   {
     "id": 885,
@@ -17742,7 +17829,8 @@
     "preview_query": "Smart home campaign modern home campaign subtly showing connected lighting climate security devices",
     "preview_orientation": "portrait",
     "visual_subject": "Smart home campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0885.webp"
   },
   {
     "id": 886,
@@ -17760,7 +17848,8 @@
     "preview_query": "Luxury real estate property campaign emphasizing architecture material light",
     "preview_orientation": "portrait",
     "visual_subject": "Luxury real estate",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0886.webp"
   },
   {
     "id": 887,
@@ -17778,7 +17867,8 @@
     "preview_query": "Interior campaign refined campaign showcasing complete room furniture piece",
     "preview_orientation": "portrait",
     "visual_subject": "Interior design campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0887.webp"
   },
   {
     "id": 888,
@@ -17796,7 +17886,8 @@
     "preview_query": "Wedding campaign elegant wedding campaign cor emotion cinematic light",
     "preview_orientation": "portrait",
     "visual_subject": "Wedding campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0888.webp"
   },
   {
     "id": 889,
@@ -17814,7 +17905,8 @@
     "preview_query": "Seasonal retail campaign tasteful seasonal retail decoration product focus",
     "preview_orientation": "portrait",
     "visual_subject": "Seasonal retail campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0889.webp"
   },
   {
     "id": 890,
@@ -17832,7 +17924,8 @@
     "preview_query": "Local brand campaign warm authentic campaign neighborhood brand emphasizing place product",
     "preview_orientation": "portrait",
     "visual_subject": "Local brand campaign",
-    "visual_style": "cinematic, realistic, commercial, campaigns"
+    "visual_style": "cinematic, realistic, commercial, campaigns",
+    "preview_image": "previews/0890.webp"
   },
   {
     "id": 891,
@@ -17851,7 +17944,8 @@
     "preview_query": "Launch campaign dramatic product-launch focal object space campaign copy",
     "preview_orientation": "portrait",
     "visual_subject": "Launch campaign",
-    "visual_style": "cinematic, realistic, commercial, dramatic, campaigns"
+    "visual_style": "cinematic, realistic, commercial, dramatic, campaigns",
+    "preview_image": "previews/0891.webp"
   },
   {
     "id": 892,
@@ -17868,7 +17962,8 @@
     "preview_query": "Concept realistic architectural interior surprising but focal element designed as concept professional library strong central idea deliberate",
     "preview_orientation": "square",
     "visual_subject": "Original Visual Concept 892",
-    "visual_style": "realistic, fashion, editorial"
+    "visual_style": "realistic, fashion, editorial",
+    "preview_image": "previews/0892.webp"
   },
   {
     "id": 893,
@@ -17884,7 +17979,8 @@
     "preview_query": "Concept documentary-style street transformed by extraordinary light designed as concept professional library strong central idea deliberate",
     "preview_orientation": "square",
     "visual_subject": "Original Visual Concept 893",
-    "visual_style": "product, photography"
+    "visual_style": "product, photography",
+    "preview_image": "previews/0893.webp"
   },
   {
     "id": 894,
@@ -17901,7 +17997,8 @@
     "preview_query": "Concept sophisticated editorial combining fashion texture environment designed as concept professional library strong central idea deliberate",
     "preview_orientation": "portrait",
     "visual_subject": "Original Visual Concept 894",
-    "visual_style": "editorial, food, photography"
+    "visual_style": "editorial, food, photography",
+    "preview_image": "previews/0894.webp"
   },
   {
     "id": 895,
@@ -17917,7 +18014,8 @@
     "preview_query": "Concept technical visualization presented as beautiful museum-quality object study designed as concept professional library strong central idea",
     "preview_orientation": "square",
     "visual_subject": "Original Visual Concept 895",
-    "visual_style": "architecture, interiors"
+    "visual_style": "architecture, interiors",
+    "preview_image": "previews/0895.webp"
   },
   {
     "id": 896,
@@ -17932,7 +18030,8 @@
     "preview_query": "Concept refined product integrated authentic lifestyle designed as concept professional library strong central idea deliberate perspective physically",
     "preview_orientation": "square",
     "visual_subject": "Original Visual Concept 896",
-    "visual_style": "automotive"
+    "visual_style": "automotive",
+    "preview_image": "previews/0896.webp"
   },
   {
     "id": 897,
@@ -17949,7 +18048,8 @@
     "preview_query": "Concept cinematic portrait framed by distinctive architecture designed as concept professional library strong central idea deliberate perspective",
     "preview_orientation": "portrait",
     "visual_subject": "Original Visual Concept 897",
-    "visual_style": "cinematic, travel, places"
+    "visual_style": "cinematic, travel, places",
+    "preview_image": "previews/0897.webp"
   },
   {
     "id": 898,
@@ -17965,7 +18065,8 @@
     "preview_query": "Concept miniature world built around recognizable everyday object designed as concept professional library strong central idea deliberate perspective",
     "preview_orientation": "square",
     "visual_subject": "Original Visual Concept 898",
-    "visual_style": "cinematic, scenes"
+    "visual_style": "cinematic, scenes",
+    "preview_image": "previews/0898.webp"
   },
   {
     "id": 899,
@@ -17982,7 +18083,8 @@
     "preview_query": "Concept food combining ingredients dramatic motion designed as concept professional library strong central idea deliberate perspective physically",
     "preview_orientation": "square",
     "visual_subject": "Original Visual Concept 899",
-    "visual_style": "dramatic, creative, surreal"
+    "visual_style": "dramatic, creative, surreal",
+    "preview_image": "previews/0899.webp"
   },
   {
     "id": 900,
@@ -17999,7 +18101,8 @@
     "preview_query": "Concept travel showing human against expansive landscape designed as concept professional library strong central idea deliberate perspective",
     "preview_orientation": "portrait",
     "visual_subject": "Original Visual Concept 900",
-    "visual_style": "posters, graphic, visuals"
+    "visual_style": "posters, graphic, visuals",
+    "preview_image": "previews/0900.webp"
   },
   {
     "id": 901,
@@ -18015,7 +18118,8 @@
     "preview_query": "Concept conceptual campaign connecting nature modern technology designed as concept professional library strong central idea deliberate perspective",
     "preview_orientation": "square",
     "visual_subject": "Original Visual Concept 901",
-    "visual_style": "d, cgi"
+    "visual_style": "d, cgi",
+    "preview_image": "previews/0901.webp"
   },
   {
     "id": 902,
@@ -18032,7 +18136,8 @@
     "preview_query": "Concept realistic architectural interior surprising but focal element designed as concept professional library strong central idea deliberate",
     "preview_orientation": "square",
     "visual_subject": "Original Visual Concept 902",
-    "visual_style": "realistic, infographic, technical"
+    "visual_style": "realistic, infographic, technical",
+    "preview_image": "previews/0902.webp"
   },
   {
     "id": 903,
@@ -18049,7 +18154,8 @@
     "preview_query": "Concept documentary-style street transformed by extraordinary light designed as concept professional library strong central idea deliberate",
     "preview_orientation": "square",
     "visual_subject": "Original Visual Concept 903",
-    "visual_style": "social, media, visuals"
+    "visual_style": "social, media, visuals",
+    "preview_image": "previews/0903.webp"
   },
   {
     "id": 904,
@@ -18067,7 +18173,8 @@
     "preview_query": "Concept sophisticated editorial combining fashion texture environment designed as concept professional library strong central idea deliberate",
     "preview_orientation": "portrait",
     "visual_subject": "Original Visual Concept 904",
-    "visual_style": "editorial, identity, photo, transformations"
+    "visual_style": "editorial, identity, photo, transformations",
+    "preview_image": "previews/0904.webp"
   },
   {
     "id": 905,
@@ -18083,7 +18190,8 @@
     "preview_query": "Concept technical visualization presented as beautiful museum-quality object study designed as concept professional library strong central idea",
     "preview_orientation": "square",
     "visual_subject": "Original Visual Concept 905",
-    "visual_style": "commercial, campaigns"
+    "visual_style": "commercial, campaigns",
+    "preview_image": "previews/0905.webp"
   },
   {
     "id": 906,
@@ -18099,7 +18207,8 @@
     "preview_query": "Concept refined product integrated authentic lifestyle designed as concept professional library strong central idea deliberate perspective physically",
     "preview_orientation": "square",
     "visual_subject": "Original Visual Concept 906",
-    "visual_style": "portrait, photography"
+    "visual_style": "portrait, photography",
+    "preview_image": "previews/0906.webp"
   },
   {
     "id": 907,
@@ -18116,7 +18225,8 @@
     "preview_query": "Concept cinematic portrait framed by distinctive architecture designed as concept professional library strong central idea deliberate perspective",
     "preview_orientation": "portrait",
     "visual_subject": "Original Visual Concept 907",
-    "visual_style": "cinematic, fashion, editorial"
+    "visual_style": "cinematic, fashion, editorial",
+    "preview_image": "previews/0907.webp"
   },
   {
     "id": 908,
@@ -18132,7 +18242,8 @@
     "preview_query": "Concept miniature world built around recognizable everyday object designed as concept professional library strong central idea deliberate perspective",
     "preview_orientation": "square",
     "visual_subject": "Original Visual Concept 908",
-    "visual_style": "product, photography"
+    "visual_style": "product, photography",
+    "preview_image": "previews/0908.webp"
   },
   {
     "id": 909,
@@ -18149,7 +18260,8 @@
     "preview_query": "Concept food combining ingredients dramatic motion designed as concept professional library strong central idea deliberate perspective physically",
     "preview_orientation": "square",
     "visual_subject": "Original Visual Concept 909",
-    "visual_style": "dramatic, food, photography"
+    "visual_style": "dramatic, food, photography",
+    "preview_image": "previews/0909.webp"
   },
   {
     "id": 910,
@@ -18165,7 +18277,8 @@
     "preview_query": "Concept travel showing human against expansive landscape designed as concept professional library strong central idea deliberate perspective",
     "preview_orientation": "portrait",
     "visual_subject": "Original Visual Concept 910",
-    "visual_style": "architecture, interiors"
+    "visual_style": "architecture, interiors",
+    "preview_image": "previews/0910.webp"
   },
   {
     "id": 911,
@@ -18180,7 +18293,8 @@
     "preview_query": "Concept conceptual campaign connecting nature modern technology designed as concept professional library strong central idea deliberate perspective",
     "preview_orientation": "square",
     "visual_subject": "Original Visual Concept 911",
-    "visual_style": "automotive"
+    "visual_style": "automotive",
+    "preview_image": "previews/0911.webp"
   },
   {
     "id": 912,
@@ -18197,7 +18311,8 @@
     "preview_query": "Concept realistic architectural interior surprising but focal element designed as concept professional library strong central idea deliberate",
     "preview_orientation": "square",
     "visual_subject": "Original Visual Concept 912",
-    "visual_style": "realistic, travel, places"
+    "visual_style": "realistic, travel, places",
+    "preview_image": "previews/0912.webp"
   },
   {
     "id": 913,
