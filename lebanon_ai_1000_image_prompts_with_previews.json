@@ -19820,7 +19820,8 @@
     "preview_query": "Concept miniature world built around recognizable everyday object designed as concept professional library strong central idea deliberate perspective",
     "preview_orientation": "square",
     "visual_subject": "Original Visual Concept 998",
-    "visual_style": "product, photography"
+    "visual_style": "product, photography",
+    "preview_image": "previews/0998.webp"
   },
   {
     "id": 999,
@@ -19837,7 +19838,8 @@
     "preview_query": "Concept food combining ingredients dramatic motion designed as concept professional library strong central idea deliberate perspective physically",
     "preview_orientation": "square",
     "visual_subject": "Original Visual Concept 999",
-    "visual_style": "dramatic, food, photography"
+    "visual_style": "dramatic, food, photography",
+    "preview_image": "previews/0999.webp"
   },
   {
     "id": 1000,
@@ -19853,7 +19855,8 @@
     "preview_query": "Concept travel showing human against expansive landscape designed as concept professional library strong central idea deliberate perspective",
     "preview_orientation": "portrait",
     "visual_subject": "Original Visual Concept 1000",
-    "visual_style": "architecture, interiors"
+    "visual_style": "architecture, interiors",
+    "preview_image": "previews/1000.webp"
   },
   {
     "id": 1001,
@@ -19868,7 +19871,8 @@
       "glass",
       "isometric",
       "architectural-visualization"
-    ]
+    ],
+    "preview_image": "previews/1001.webp"
   },
   {
     "id": 1002,
@@ -19883,7 +19887,8 @@
       "nature",
       "surreal",
       "editorial"
-    ]
+    ],
+    "preview_image": "previews/1002.webp"
   },
   {
     "id": 1003,
@@ -19898,7 +19903,8 @@
       "interface",
       "data-visualization",
       "product-visualization"
-    ]
+    ],
+    "preview_image": "previews/1003.webp"
   },
   {
     "id": 1004,
@@ -19913,7 +19919,8 @@
       "luxury",
       "studio",
       "photography"
-    ]
+    ],
+    "preview_image": "previews/1004.webp"
   },
   {
     "id": 1005,
@@ -19928,7 +19935,8 @@
       "handcrafted",
       "macro",
       "diorama"
-    ]
+    ],
+    "preview_image": "previews/1005.webp"
   },
   {
     "id": 1006,
@@ -19943,7 +19951,8 @@
       "futuristic",
       "wireframe",
       "experimental-photography"
-    ]
+    ],
+    "preview_image": "previews/1006.webp"
   },
   {
     "id": 1007,
@@ -19958,7 +19967,8 @@
       "surreal",
       "mechanical",
       "nature"
-    ]
+    ],
+    "preview_image": "previews/1007.webp"
   },
   {
     "id": 1008,
@@ -19973,7 +19983,8 @@
       "surreal",
       "futuristic",
       "Lebanon"
-    ]
+    ],
+    "preview_image": "previews/1008.webp"
   },
   {
     "id": 1009,
@@ -19988,7 +19999,8 @@
       "glass",
       "obsidian",
       "advertising"
-    ]
+    ],
+    "preview_image": "previews/1009.webp"
   },
   {
     "id": 1010,
@@ -20003,7 +20015,8 @@
       "technology",
       "product-visualization",
       "AI"
-    ]
+    ],
+    "preview_image": "previews/1010.webp"
   },
   {
     "id": 1011,
@@ -20018,6 +20031,7 @@
       "design",
       "product-photography",
       "surreal"
-    ]
+    ],
+    "preview_image": "previews/1011.webp"
   }
 ]
